@@ -1,0 +1,16 @@
+table,th,td{
+    border: 1px solid #993738;
+    border-collapse: collapse;
+    font-family: trebuchet MS, Arial, Helvetica, sans-serif;
+   
+}
+tbody tr:nth-child(old){
+    background-color: rgb(54, 54, 50);
+}
+tbody tr:nth-child(even){
+        background-color: rgb(199, 204, 209);
+}
+
+thead{
+    background-color: #993738;
+}
